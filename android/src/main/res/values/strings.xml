@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">ACamera</string>
+    <string name="common_edit">编辑</string>
+    <string name="common_finish">完成</string>
+    <string name="common_added">新增</string>
+    <string name="common_delete">删除</string>
+    <string name="common_save">保存</string>
+
+    <string name="watermark_local">本地照片</string>
+    <string name="watermark_hidden">隐藏水印</string>
+    <string name="watermark_display">显示水印</string>
+    <string name="watermark_switch">切换</string>
+    <string name="watermark_positioning">定位</string>
+    <string name="watermark_caption_names">标题名称</string>
+    <string name="watermark_shooting_time">拍摄时间：</string>
+    <string name="watermark_weather">天   气：</string>
+    <string name="watermark_location">地   点：</string>
+    <string name="watermark_organization">单位名称：</string>
+    <string name="watermark_please_enter_content">请输入内容......</string>
+    <string name="watermark_edit">编辑水印</string>
+    <string name="watermark_enterprise_logo">企业logo</string>
+    <string name="watermark_project_name">工程名称：</string>
+
+    <string name="title">标题</string>
+    <string name="caption_names">标题名称</string>
+    <string name="content">内容</string>
+    <string name="please_enter">请输入...</string>
+</resources>
